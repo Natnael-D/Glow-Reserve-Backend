@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GlowReserve.Api/GlowReserve.Api.csproj" />
+  <Project Path="GlowReserve.Application/GlowReserve.Application.csproj" />
+  <Project Path="GlowReserve.Domain/GlowReserve.Domain.csproj" />
+  <Project Path="GlowReserve.Infrastructure/GlowReserve.Infrastructure.csproj" />
+</Solution>
